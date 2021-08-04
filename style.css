@@ -1,0 +1,28 @@
+img{
+  height:400px;
+  width:700px;
+}
+body{
+  text-align:center;
+  background:linear-gradient(#55ff00 0%, #ff0000 100%)
+}
+h1{
+  text-shadow:4px 4px #42A5F5;
+    font-family: 'Style Script', cursive;
+}
+.menu{
+    list-style: none;
+    background-color: darkcyan;
+    height: 50px;
+    color: aqua;
+}
+.item{
+    display: inline;
+    padding-left: 10px;
+}
+.item:hover{
+    background-color: aqua;
+}
+html{
+    scroll-behavior: smooth;
+}
